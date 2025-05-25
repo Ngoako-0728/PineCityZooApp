@@ -1,0 +1,34 @@
+body {
+  ' font-family: Arial, sans-serif;'
+  ' background-color: #fOfOfO;'
+}
+h1 {
+  'color: #00698f;'
+' font-size: 32p×;'
+' margin-bottom: 10p×;'
+}
+p {
+  ' font-size: 18p×;'
+' margin-bottom: 20p×;'
+}
+bottom {
+  ' background-color: #4CAF50;'
+' color: #fff;'
+' pedding: 10p× 20p×;'
+' border: none;'
+' border-radius: 5p×;'
+' cursor: pointer;'
+}
+button: hover {
+  ' background-color: #3e8e41;'
+}
+/* Responsive design */
+@media only screen and (max-width: 768p×) {
+  ' body {'
+' font-size: 16p×;'
+' }'
+' h1 {
+' font-size: 24p×;'
+' }'
+' p {'
+' font-size: 14p×;'  
